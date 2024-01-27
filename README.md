@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter project.
+An application that tracks the local time from 20 locations around the world. 
 
 ## Getting Started
 
